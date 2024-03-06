@@ -1,0 +1,14 @@
+C:\Users\asp\Desktop\waasi\c#arraywajiha\c#arraywajiha\bin\Debug\net6.0\c#arraywajiha.exe
+C:\Users\asp\Desktop\waasi\c#arraywajiha\c#arraywajiha\bin\Debug\net6.0\c#arraywajiha.deps.json
+C:\Users\asp\Desktop\waasi\c#arraywajiha\c#arraywajiha\bin\Debug\net6.0\c#arraywajiha.runtimeconfig.json
+C:\Users\asp\Desktop\waasi\c#arraywajiha\c#arraywajiha\bin\Debug\net6.0\c#arraywajiha.dll
+C:\Users\asp\Desktop\waasi\c#arraywajiha\c#arraywajiha\bin\Debug\net6.0\c#arraywajiha.pdb
+C:\Users\asp\Desktop\waasi\c#arraywajiha\c#arraywajiha\obj\Debug\net6.0\c#arraywajiha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\Desktop\waasi\c#arraywajiha\c#arraywajiha\obj\Debug\net6.0\c#arraywajiha.AssemblyInfoInputs.cache
+C:\Users\asp\Desktop\waasi\c#arraywajiha\c#arraywajiha\obj\Debug\net6.0\c#arraywajiha.AssemblyInfo.cs
+C:\Users\asp\Desktop\waasi\c#arraywajiha\c#arraywajiha\obj\Debug\net6.0\c#arraywajiha.csproj.CoreCompileInputs.cache
+C:\Users\asp\Desktop\waasi\c#arraywajiha\c#arraywajiha\obj\Debug\net6.0\c#arraywajiha.dll
+C:\Users\asp\Desktop\waasi\c#arraywajiha\c#arraywajiha\obj\Debug\net6.0\refint\c#arraywajiha.dll
+C:\Users\asp\Desktop\waasi\c#arraywajiha\c#arraywajiha\obj\Debug\net6.0\c#arraywajiha.pdb
+C:\Users\asp\Desktop\waasi\c#arraywajiha\c#arraywajiha\obj\Debug\net6.0\c#arraywajiha.genruntimeconfig.cache
+C:\Users\asp\Desktop\waasi\c#arraywajiha\c#arraywajiha\obj\Debug\net6.0\ref\c#arraywajiha.dll
